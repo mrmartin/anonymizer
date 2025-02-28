@@ -21,7 +21,7 @@ You can run the program by either:
 - Double-clicking the executable
 - Running the following command in the terminal:
   ```bash
-  ./anonymizer_linux
+  ./anonymizer_llm
   ```
 
 ## Model Requirement
