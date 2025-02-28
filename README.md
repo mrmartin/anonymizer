@@ -7,7 +7,8 @@ A program that runs an advanced Large Language Model (LLM) locally on your compu
 ## Installation
 
 ### Download
-Download the executable for Linux from `/dist/anonymizer_linux`, or compile the project manually.
+Download the executable for Linux from [`/dist/anonymizer_linux`](https://github.com/mrmartin/anonymizer/raw/main/dist/anonymizer_llm)
+, or compile the project manually.
 
 ### Compilation
 If you prefer to compile the project yourself, use the following command:
