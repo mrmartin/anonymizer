@@ -12,7 +12,7 @@ Download the executable for Linux from `/dist/anonymizer_linux`, or compile the 
 ### Compilation
 If you prefer to compile the project yourself, use the following command:
 ```bash
-pyinstaller --additional-hooks-dir=./hooks main.py
+pyinstaller --onefile --noconsole --clean --name anonymizer_llm --additional-hooks-dir=./hooks main.py
 ```
 
 ### Running the Program
